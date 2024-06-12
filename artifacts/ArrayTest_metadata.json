@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "setArray",
+				"outputs": [],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Array.sol": "ArrayTest"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Array.sol": {
+			"keccak256": "0x4f60a50e1186e9ee3e9d050147ff649adcd1abb01c06892318bcd713ad06b4e6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2d800ef85420167cb1972c9770fc932ea7b035a798814f9d568642c90bb43122",
+				"dweb:/ipfs/QmRjLnwcG5G65iJ4K7xKLTiqq9FT5N2B8o1VnyL6eQ8YAL"
+			]
+		}
+	},
+	"version": 1
+}
