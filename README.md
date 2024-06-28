@@ -23,7 +23,3 @@
 - [x] 验证签名
 - [x] Most significant bit in assembly
 - [x] create 和 create2
-    
-## 问题
-
-- [ ] 如果代理合约和实现合约中都有只读且同名的admin函数，proxyAdmin合约中使用staticcall 还会触发代理合约的委托调用逻辑吗？此时staticcall是如何解决冲突问题的
